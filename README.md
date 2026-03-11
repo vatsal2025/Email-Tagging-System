@@ -1,5 +1,4 @@
 # Email-Tagging-System
-Differentiating mails and classify them under certain classes for companies and organisations with a large email data store
 
 #  Customer-Isolated Email Tagging System
 ### Rule-Based Multi-Level Pattern Matching with LLM-Ready Architecture
