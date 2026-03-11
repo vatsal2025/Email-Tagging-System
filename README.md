@@ -5,6 +5,7 @@
 
 A production-ready email auto-tagging system that classifies customer support emails into issue categories using a weighted pattern-matching classifier — with strict **per-customer tag isolation** to prevent cross-contamination between accounts.
 
+For original code repo, pls check out: https://colab.research.google.com/drive/1HGajFoyDblzREPAfJbX8Ofoyw2cPE9yb?usp=sharing#scrollTo=J5L_yD5IMshh
 ---
 
 ##  Overview
